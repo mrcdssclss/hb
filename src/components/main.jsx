@@ -8,7 +8,7 @@ const Main = () => {
                 или история о том, как я рада, что тебя не отправили на Марс
             </p>
             <img
-                src="./public/photos/dadMain.png"
+                src="https://github.com/user-attachments/assets/6509402e-fc14-441b-8f7d-8947d0029b71"
                 alt="Dad portrait"
                 className="hero-image"
             />
