@@ -1,0 +1,27 @@
+.video-section {
+    padding: 4rem 1rem;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.video-heading {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.qr-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.qr-image {
+    width: 200px;
+    height: 200px;
+}
+
+.qr-text {
+    font-size: 1.1rem;
+    color: #555;
+}
