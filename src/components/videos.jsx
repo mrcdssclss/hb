@@ -9,7 +9,7 @@ const Videos = () => {
                 <h2 className="video-heading"><HeartIcon size={20}/> Больше фото и видео <HeartIcon size={20}/></h2>
                 <div className="qr-block">
                     <img
-                        src="photos/qr.png"
+                        src="./public/photos/qr.png"
                         alt="QR code to video"
                         className="qr-image"
                     />
