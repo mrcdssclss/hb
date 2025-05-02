@@ -38,7 +38,7 @@ const Photos = () => {
         },
         {
             id: 6,
-            url: './public/photos/childhood.jpg',
+            url: 'https://private-user-images.githubusercontent.com/145647736/440059765-887d7a2c-8002-4d4e-8d6f-c759e7fe7d6f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYyMjIxNzYsIm5iZiI6MTc0NjIyMTg3NiwicGF0aCI6Ii8xNDU2NDc3MzYvNDQwMDU5NzY1LTg4N2Q3YTJjLTgwMDItNGQ0ZS04ZDZmLWM3NTllN2ZlN2Q2Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwMlQyMTM3NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZjQ1YzYyZGI1YjM3YzYyZmE5M2RkNGU4ODRhOWIyZjE4ZWQyZGI0NTYzMTA1ZTdlMDNlNDVkMGY3NjU3MDU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.e2dICpz7j9NbTWlLn47UQ7j3CW5lR8X5Q1EQqMDMzPs',
             alt: 'childhood',
             caption: 'Детство',
         },
